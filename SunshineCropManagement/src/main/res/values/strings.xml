@@ -1,0 +1,143 @@
+<!--Sivajan Manikavasagar (Team Leader) N01240148
+    Muhammad Qamar N01344609
+    Noha Philips N01351336
+    Tanvir Pahwa N01245843
+    CENG 322 - RNC/D
+    CENG 317 - 0NF/-->
+<resources>
+    <string name="app_name">Crop Management System</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Crop Manager</string>
+    <string name="nav_header_subtitle">Tap one of the menu options to get started!</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_airhumid">Air Humidity</string>
+    <string name="menu_gallery">Crop Temperature</string>
+    <string name="menu_slideshow">Soil Moisture</string>
+    <string name="menu_num4">Number4</string>
+
+    <string name="comment1">Replace with your own action</string>
+    <string name="comment2">Again</string>
+    <string name="exitapp">Exit Application?</string>
+    <string name="dialogtitle">Are you sure you want to exit the application?</string>
+    <string name="stay">Stay</string>
+    <string name="yes">Yes</string>
+
+    <string name="text1_soil">Soil Moisture</string>
+    <string name="btn1_soil">Measure Moisture</string>
+    <string name="swtch1_soil">Connected to the sensor: </string>
+    <string name="soildescription">Measure moisture with a click of a button!</string>
+    <string name="soilunit">x</string>
+
+    <string name="CropTemp">Crop Temperature </string>
+    <string name="NohaS1">Celsius or Fahrenheit </string>
+    <string name="TempOfCrop">c </string>
+    <string name="NohaB1" translatable="false"> Reanalyze </string>
+    <string name="remeasure_air_humidity">Remeasure Air Humidity</string>
+    <string name="air_humidity_level">HUMID</string>
+    <string name="water_level">Water Level</string>
+    <string name="task_scheduler">Task Scheduler</string>
+    <string name="connect_sensors">Connect Sensors</string>
+    <string name="about_us">About Us</string>
+    <string name="about_us2">SUNSHINE BOYS© 2021</string>
+    <string name="about_us3">Sunshine Boys</string>
+    <string name="onb1"> START CROP MANAGEMENT</string>
+    <string name="TSTV1"> Schedule a Task</string>
+    <string name="TSTV2"> date</string>
+    <string name="taskdone"> SCHEDULE TASK</string>
+    <string name="support">Review</string>
+    <string name="reviewtext">Leave a Review</string>
+    <string name="reviewName">Name:</string>
+    <string name="reviewComment">Comment:</string>
+    <string name="reviewPhone">Phone:</string>
+    <string name="reviewEmail">Email:</string>
+    <string name="reviewButton">Submit</string>
+    <string name="toastReview">Review went through!</string>
+
+    <string name="report_a_bug">Report a Bug</string>
+    <string name="waterlevel">Water Level</string>
+    <string name="taskscheduler">Task Scheduler</string>
+    <string name="currently_scheduled_for">Currently Scheduled for:</string>
+    <string name="placeholder">PLACEHOLDER</string>
+    <string name="settingsfragmentopen">Opening Settings Fragment</string>
+    <string name="permissiongrant">Permission Granted!</string>
+    <string name="permissiondeny">Permission Denied!</string>
+    <string name="requiredperm">Permission required</string>
+    <string name="permissionrequiredforblue">Permission for bluetooth is required to connect to sensors!</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="settings">Settings</string>
+    <string name="lock_orientation">Lock Orientation</string>
+    <string name="language">Language</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    <string name="portrait_mode_only">Portrait Mode Only</string>
+    <string name="home">Home</string>
+    <string name="detailed_sensor_data">Detailed Sensor Data</string>
+    <string name="home_frag">Home Frag</string>
+    <string name="water_now">Water Now</string>
+    <string name="OnboardingPage1Desc">Please enable bluetooth permissions if you haven\'t already. If you see your sensor on the screen please select it and move on to the next page.</string>
+    <string name="OnboardingPage2Desc">\Hi user! Welcome to the SUNSHINE BOYS Crop Management System App, You\'re almost ready to use your new sensor! In the next few steps we\'ll guide you through the process of setting up your sensor to be used with the app. \</string>
+    <string name="OnboardingPage3Desc">1. Make sure sensor shows connected on homescreen. \n2. Select correct sensor. \n3. Monitor changes of the cropdata. </string>
+    <string name="OnboardingPage4Desc">Enjoy our app! Please leave a review and let us know what to improve on!</string>
+    <string name="welcome1">Welcome!</string>
+    <string name="connectsensor">Connect to your sensor</string>
+    <string name="quick"> Quick Start Information</string>
+    <string name="done"> Setup Completed</string>
+    <string name="dry">Dry</string>
+    <string name="fahrenheit" translatable="false">Imperial</string>
+    <string name="celsius" translatable="false">Metric</string>
+    <string name="prefTemp">Preferred Units</string>
+    <string name="humid">Humid</string>
+    <string name="send_report">Send Report</string>
+    <string name="software_issue">Software Issue</string>
+    <string name="hardware_issue">Hardware Issue</string>
+    <string name="what_is_the_bug">What is the bug?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="it_is_currently_humid">It is currently HUMID</string>
+    <string name="measure_air_humidity_in_real_time">Measure Air Humidity in real time!</string>
+    <string name="measure_the_current_temperature">Measure the current temperature!</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="nowWatering">Plants are being watered!</string>
+    <string name="WaterError">Plants are currently being watered! Avoid pressing the button multiple times!</string>
+    <string name="completeWater">Finished watering the plants!</string>
+    <string name="watererror2">Plants were not watered!</string>
+    <string name="sensorNotConnected">Sensor not Connected!</string>
+    <string name="sensorNotConnected2">You can not water your plants because the sensor is not connected!</string>
+    <string name="ok">OK</string>
+    <string name="fab_content_desc">testing</string>
+    <string name="percent" translatable="false">%</string>
+    <string name="x" translatable="false">x</string>
+    <string name="c">c</string>
+    <string name="f">f</string>
+    <string name="tempChanged">Changed from Celsius to Fahrenheit</string>
+    <string name="tempChanged2">Changed from Fahrenheit to Celsius</string>
+    <string name="updatingData">Currently updating data from the sensor.</string>
+
+    <string name="errorUpdating">Unable to update sensor please try again.</string>
+    <string name="noDateSelected">No Date Selected</string>
+    <string name="selectaDate">Select a date first!</string>
+    <string name="addCalendarDate">Add Calendar Date?</string>
+    <string name="addSelectedCalendarDate">Add the selected Calendar date?</string>
+    <string name="addedDate">Added date</string>
+    <string name="blankname">Name is blank!</string>
+    <string name="phoneNoBlank">Phone No. is blank!</string>
+    <string name="emailBlank">Email is blank!</string>
+    <string name="commentsBlank">Comments are blank!</string>
+    <string name="dateError">Error adding Date! Try again later.</string>
+    <string name="water_level_currently_in_storage_container_will_be_displayed_below">Water level currently in storage container will be displayed below.</string>
+    <string name="add_a_date_and_the_app_will_automatically_water_your_plant_on_selected_dates">Add a date and the app will automatically water your plant on selected dates.</string>
+    <string name="adjust_application_settings_here">Adjust application settings here!</string>
+    <string name="settingsSave">Save Settings</string>
+    <string name="colour_blind_mode">Colour Blind Mode</string>
+    <string name="soilmoisture">Soil Moisture</string>
+    <string name="croptemp">Crop Temperature</string>
+    <string name="airhumid">Air Humidity</string>
+    <string name="openingbluetooth">Opening Bluetooth Settings</string>
+    <string name="deviceblue">Device does not support Bluetooth!</string>
+    <string name="devicesupportblue">Your device does not support bluetooth. Bluetooth is required to run Crop Management! Please switch to a device that supports bluetooth.</string>
+
+</resources>
